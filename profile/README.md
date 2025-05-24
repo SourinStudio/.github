@@ -3,19 +3,18 @@
 
 <h3>About Us</h3>
 <p>
-  SourinStudio is an indie team creating tools and experiences for Minecraft players and communities.<br>
-  We set up custom servers, build plugins and mods, and explore fun side projects along the way.<br>
-  Our work blends creativity and calm energy — whether it's a useful admin tool or something chaotic just for fun.
+  SourinStudio is a small, focused team building experiences for Minecraft players and server communities.<br>
+  We specialize in custom server setups, plugin development, and lightweight web tools that make server management smoother.<br>
+  Whether it's a utility mod or a fun side project, everything we build blends function with creativity.
 </p>
 
 <h3>What We Build</h3>
 <p>
-  Minecraft plugins features<br>
-  Web dashboards and tools for server admins<br>
-  Experimental mechanics and mini-games<br>
-  Custom Minecraft server setups (Paper, Spigot, Fabric)
+  Custom plugins and gameplay features for Minecraft<br>
+  Web-based tools and dashboards for admins<br>
+  Experimental mechanics, prototypes, and mini-games<br>
+  Full Minecraft server environments (Paper, Spigot, Fabric)
 </p>
-
 
 <h3>Team</h3>
 <table>
