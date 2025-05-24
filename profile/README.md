@@ -23,7 +23,7 @@
       <img src="https://github.com/souta78.png" width="80" alt="Souta">
     </td>
     <td>
-      <strong>souta78</strong> — Minecraft Setup & Web Developer<br>
+      <strong>souta78</strong> — Minecraft Server Setup & Web Developer<br>
     </td>
   </tr>
 </table>
