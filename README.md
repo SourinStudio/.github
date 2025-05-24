@@ -1,5 +1,5 @@
 <h1 align="center">SourinStudio</h1>
-<p align="center">We build cool things for Minecraft and the web — calm, clean, and a bit chaotic.</p>
+<p>We build cool things for Minecraft and the web — calm, clean, and a bit chaotic.</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ4OTBjcWI3dXg2eXkzZjA4M3A3dzJva3Z0ZHVzMmJxd2R3ajJlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" width="300" alt="Studio vibe">
