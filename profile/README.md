@@ -23,7 +23,7 @@
       <img src="https://github.com/souta78.png" width="80" alt="Souta">
     </td>
     <td>
-      <strong>Souta</strong> — Minecraft Setup & Web Developer<br>
+      <strong>souta78</strong> — Minecraft Setup & Web Developer<br>
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
       <img src="https://github.com/ranggaardhyy.png" width="80" alt="Boenyy">
     </td>
     <td>
-      <strong>Souta</strong> — Plugin Developer & Web Developer<br>
+      <strong>ranggaardhyy</strong> — Plugin Developer & Web Developer<br>
     </td>
   </tr>
 </table>
