@@ -23,21 +23,28 @@
 </p>
 
 <h3>Team</h3>
-
-<p align="center">
-  <img src="https://github.com/souta78.png" width="80" alt="Souta" />
-  <img src="https://github.com/ranggaardhyy.png" width="80" alt="Ranggaardhyy" />
-</p>
-
-<p align="center">
-  <strong>Souta</strong><br>
-  Minecraft Server Setup & Plugin Dev
-</p>
-
-<p align="center">
-  <strong>Ranggaardhyy</strong><br>
-  Plugin Developer & System Tweaker
-</p>
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://github.com/souta78.png" width="80" alt="Souta">
+    </td>
+    <td>
+      <strong>Souta</strong> — Developer & Server Architect<br>
+      Minecraft Setup & Web Developer
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://github.com/souta78.png" width="80" alt="Souta">
+    </td>
+    <td>
+      <strong>Souta</strong> — Developer & Server Architect<br>
+      Minecraft Setup & Web Developer
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <em>Crafted with care. Deployed with chill.</em>
