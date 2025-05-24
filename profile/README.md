@@ -29,19 +29,17 @@
       <img src="https://github.com/souta78.png" width="80" alt="Souta">
     </td>
     <td>
-      <strong>Souta</strong> — Developer & Server Architect<br>
-      Minecraft Setup & Web Developer
+      <strong>Souta</strong> — Minecraft Setup & Web Developer<br>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td width="100">
-      <img src="https://github.com/souta78.png" width="80" alt="Souta">
+      <img src="https://github.com/ranggaardhyy.png" width="80" alt="Boenyy">
     </td>
     <td>
-      <strong>Souta</strong> — Developer & Server Architect<br>
-      Minecraft Setup & Web Developer
+      <strong>Souta</strong> — Plugin Developer & Web Developer<br>
     </td>
   </tr>
 </table>
