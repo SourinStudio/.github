@@ -1,5 +1,6 @@
 <h1 align="center">SourinStudio</h1>
-<p>We build cool things for Minecraft and the web — calm, clean, and a bit chaotic.</p>
+<p align="center">We build cool things for Minecraft and the web — calm, clean, and a bit chaotic.</p>
+
 <h3>About Us</h3>
 <p>
   SourinStudio is an indie team creating tools and experiences for Minecraft players and communities.<br>
@@ -18,9 +19,22 @@
 <h3>Our Style</h3>
 <p>
   Simple. Purposeful. Fun.<br>
-  Everything is crafted with clean code and late-night lo-fi vibes.
+  Everything is crafted with clean and thoughtful code.
 </p>
 
-<p align="center>
+<h3>Team</h3>
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://github.com/souta78.png" width="80" alt="Souta">
+    </td>
+    <td>
+      <strong>Souta</strong> — Developer & Server Architect<br>
+      Loves experimenting with game mechanics and building tools that make Minecraft servers better.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <em>Crafted with care. Deployed with chill.</em>
 </p>
