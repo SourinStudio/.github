@@ -10,17 +10,12 @@
 
 <h3>What We Build</h3>
 <p>
-  Minecraft plugins and modded features<br>
+  Minecraft plugins features<br>
   Web dashboards and tools for server admins<br>
   Experimental mechanics and mini-games<br>
   Custom Minecraft server setups (Paper, Spigot, Fabric)
 </p>
 
-<h3>Our Style</h3>
-<p>
-  Simple. Purposeful. Fun.<br>
-  Everything is crafted with clean and thoughtful code.
-</p>
 
 <h3>Team</h3>
 <table>
