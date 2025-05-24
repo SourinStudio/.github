@@ -25,12 +25,15 @@
 <h3>Team</h3>
 <table>
   <tr>
-    <td width="100">
-      <img src="https://github.com/souta78.png" width="80" alt="Souta">
+    <td width="100" align="center">
+      <img src="https://github.com/souta78.png" width="80" alt="Souta"><br>
+      <strong>Souta</strong><br>
+      Developer & Server Architect
     </td>
-    <td>
-      <strong>Souta</strong> — Developer & Server Architect<br>
-      Loves experimenting with game mechanics and building tools that make Minecraft servers better.
+    <td width="100" align="center">
+      <img src="https://github.com/ranggaardhyy.png" width="80" alt="Ranggaardhyy"><br>
+      <strong>Ranggaardhyy</strong><br>
+      Plugin Developer & System Tweaker
     </td>
   </tr>
 </table>
