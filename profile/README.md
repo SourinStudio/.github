@@ -28,12 +28,12 @@
     <td width="100" align="center">
       <img src="https://github.com/souta78.png" width="80" alt="Souta"><br>
       <strong>Souta</strong><br>
-      Developer & Server Architect
+      Minecraft Server Setup & Plugin Dev
     </td>
     <td width="100" align="center">
       <img src="https://github.com/ranggaardhyy.png" width="80" alt="Ranggaardhyy"><br>
       <strong>Ranggaardhyy</strong><br>
-      Plugin Developer & System Tweaker
+      Plugin Developer & Web Developer
     </td>
   </tr>
 </table>
